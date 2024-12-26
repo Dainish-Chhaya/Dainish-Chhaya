@@ -68,5 +68,4 @@ I'm always happy to help and eager to make a difference!
 [![Email](https://img.shields.io/badge/-Email-D42424?style=flat-square&logo=gmail&logoColor=white)](mailto:chhayadainish@gmail.com)  
 
 ---
-
-⭐️ From [Dainish Chhaya](https://github.com/Dainish-Chhaya)  
+"_Learn, grow, and find joy in the process!_"
