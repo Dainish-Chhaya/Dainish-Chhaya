@@ -14,6 +14,10 @@ Here's a snapshot of what I bring to the table:
 - 💡 Proficient in building robust applications using **React**, **JavaScript**, **Node.js**, and **Spring Boot**.
 - 🤝 Open to collaborating on **web development**, **enterprise applications**, and solving challenging technical problems.  
 
+Currently pursuing my Master’s in Software Engineering at Northeastern University, I am driven to explore the intersection of innovation and technology. I am also enthusiastic about contributing to open-source projects and collaborating on impactful software solutions.
+
+💡 When I’m not coding, you’ll find me exploring new tech trends, cuisines or working out. 
+
 💬 **If you have an application to build or a problem to solve, reach out to me at [chhayadainish@gmail.com](mailto:chhayadainish@gmail.com).**  
 I'm always happy to help and eager to make a difference!
 
