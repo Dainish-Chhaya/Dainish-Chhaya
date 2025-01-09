@@ -62,6 +62,8 @@ I'm always happy to help and eager to make a difference!
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 ### 🤝 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainishchhaya/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dainish-Chhaya)  
