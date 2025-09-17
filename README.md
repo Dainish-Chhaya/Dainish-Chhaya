@@ -9,8 +9,6 @@
 🌟 I am a dedicated Software Engineer with over 2 years of experience in building scalable and reliable web applications. My expertise lies in creating impactful solutions for complex problems, combining technical skills with a passion for innovation.
 
 Here's a snapshot of what I bring to the table:
-- 🔭 Currently working on a **Job Portal Application** leveraging **Spring Boot**, **Hibernate**, and **MySQL**.
-- 🌱 Strengthening my expertise in backend development, cloud computing, and software scalability.
 - 💡 Proficient in building robust applications using **React**, **JavaScript**, **Node.js**, and **Spring Boot**.
 - 🤝 Open to collaborating on **web development**, **enterprise applications**, and solving challenging technical problems.  
 
