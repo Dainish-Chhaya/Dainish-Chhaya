@@ -16,7 +16,7 @@ Currently pursuing my Master’s in Software Engineering at Northeastern Univers
 
 💡 When I’m not coding, you’ll find me exploring new tech trends, cuisines or working out. 
 
-💬 **If you have an application to build or a problem to solve, reach out to me at [chhayadainish@gmail.com](mailto:chhayadainish@gmail.com).**  
+💬 **If you have an application to build or a problem to solve, reach out to me at [chhayadainish98@gmail.com](mailto:chhayadainish98@gmail.com).**  
 I'm always happy to help and eager to make a difference!
 
 ---
