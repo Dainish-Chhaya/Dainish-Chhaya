@@ -6,13 +6,13 @@
 ---
 
 ### 🚀 **About Me**  
-🌟 I am a dedicated Software Engineer with over 2 years of experience in building scalable and reliable web applications. My expertise lies in creating impactful solutions for complex problems, combining technical skills with a passion for innovation.
+🌟 I am a dedicated Software Engineer with over 3 years of experience in building scalable and reliable web applications. My expertise lies in creating impactful solutions for complex problems, combining technical skills with a passion for innovation.
 
 Here's a snapshot of what I bring to the table:
-- 💡 Proficient in building robust applications using **React**, **JavaScript**, **Node.js**, and **Spring Boot**.
+- 💡 Proficient in building robust applications using **Angular**,**React**, **JavaScript**, **Node.js**, and **Spring Boot**.
 - 🤝 Open to collaborating on **web development**, **enterprise applications**, and solving challenging technical problems.  
 
-Currently pursuing my Master’s in Software Engineering at Northeastern University, I am driven to explore the intersection of innovation and technology. I am also enthusiastic about contributing to open-source projects and collaborating on impactful software solutions.
+Recently graduated with Master’s in Software Engineering at Northeastern University, I am driven to explore the intersection of innovation and technology. I am also enthusiastic about contributing to open-source projects and collaborating on impactful software solutions.
 
 💡 When I’m not coding, you’ll find me exploring new tech trends, cuisines or working out. 
 
@@ -24,6 +24,7 @@ I'm always happy to help and eager to make a difference!
 ### 🛠️ **Skills & Technologies**  
 
 #### **Programming Languages**  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -33,6 +34,7 @@ I'm always happy to help and eager to make a difference!
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
