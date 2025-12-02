@@ -9,7 +9,7 @@
 🌟 I am a dedicated Software Engineer with over 3 years of experience in building scalable and reliable web applications. My expertise lies in creating impactful solutions for complex problems, combining technical skills with a passion for innovation.
 
 Here's a snapshot of what I bring to the table:
-- 💡 Proficient in building robust applications using **Angular**,**React**, **JavaScript**, **Node.js**, and **Spring Boot**.
+- 💡 Proficient in building robust applications using **Angular**, **React**, **JavaScript**, **Node.js**, and **Spring Boot**.
 - 🤝 Open to collaborating on **web development**, **enterprise applications**, and solving challenging technical problems.  
 
 Recently graduated with Master’s in Software Engineering at Northeastern University, I am driven to explore the intersection of innovation and technology. I am also enthusiastic about contributing to open-source projects and collaborating on impactful software solutions.
