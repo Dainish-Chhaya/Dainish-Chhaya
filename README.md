@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 **About Me**  
-🌟 I am a dedicated Software Engineer with over 3 years of experience in building scalable and reliable web applications. My expertise lies in creating impactful solutions for complex problems, combining technical skills with a passion for innovation.
+🌟 I am a dedicated Software Engineer with over 3.5 years of experience in building scalable and reliable web applications. My expertise lies in creating impactful solutions for complex problems, combining technical skills with a passion for innovation.
 
 Here's a snapshot of what I bring to the table:
 - 💡 Proficient in building robust applications using **Angular**, **React**, **JavaScript**, **Node.js**, and **Spring Boot**.
